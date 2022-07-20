@@ -1,0 +1,15 @@
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\bin\Debug\net6.0\Factory_Pattern_Exercise.exe
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\bin\Debug\net6.0\Factory_Pattern_Exercise.deps.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\bin\Debug\net6.0\Factory_Pattern_Exercise.runtimeconfig.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\bin\Debug\net6.0\Factory_Pattern_Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\bin\Debug\net6.0\Factory_Pattern_Exercise.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.csproj.AssemblyReference.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.AssemblyInfoInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.AssemblyInfo.cs
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\refint\Factory_Pattern_Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\Factory_Pattern_Exercise.genruntimeconfig.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Factory_Pattern_Exercise1\Factory_Pattern_Exercise1\obj\Debug\net6.0\ref\Factory_Pattern_Exercise.dll
